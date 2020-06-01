@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DatabaseTest/DatabaseTest.iml" filepath="$PROJECT_DIR$/DatabaseTest/DatabaseTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEAworkspace.iml" filepath="$PROJECT_DIR$/.idea/IDEAworkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSONresolve/JSONresolve.iml" filepath="$PROJECT_DIR$/JSONresolve/JSONresolve.iml" />
     </modules>
   </component>
 </project>
