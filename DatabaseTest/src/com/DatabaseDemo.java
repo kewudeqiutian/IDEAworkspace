@@ -14,6 +14,8 @@ public class DatabaseDemo {
  
  
     // 数据库的用户名与密码，需要根据自己的设置
+
+    //这部分可以写到配置文件中
     static final String USER = "root";
     static final String PASS = "root";
  
