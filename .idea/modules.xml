@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DatabaseTest/DatabaseTest.iml" filepath="$PROJECT_DIR$/DatabaseTest/DatabaseTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/IDEAworkspace.iml" filepath="$PROJECT_DIR$/.idea/IDEAworkspace.iml" />
       <module fileurl="file://$PROJECT_DIR$/JSONresolve/JSONresolve.iml" filepath="$PROJECT_DIR$/JSONresolve/JSONresolve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sockettest/sockettest.iml" filepath="$PROJECT_DIR$/sockettest/sockettest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ubanutest/ubanutest.iml" filepath="$PROJECT_DIR$/ubanutest/ubanutest.iml" />
     </modules>
   </component>
 </project>

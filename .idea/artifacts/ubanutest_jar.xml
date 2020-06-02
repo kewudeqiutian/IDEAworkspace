@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ubanutest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ubanutest_jar</output-path>
+    <root id="archive" name="ubanutest.jar">
+      <element id="module-output" name="ubanutest" />
+    </root>
+  </artifact>
+</component>
